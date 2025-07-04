@@ -53,6 +53,21 @@
       "lng": "-3.16900000",
       "distance_to": "0.45",
       "url": "https://propertydata.co.uk/outbound/rightmove/160777777"
+    },
+    {
+      "id": "R159695216",
+      "address": "Rawden Place, Cardiff",
+      "postcode": "CF11 6LF",
+      "type": "Terraced house",
+      "bedrooms": 3,
+      "price": 325000,
+      "sqf": 1313,
+      "days_on_market": 0,
+      "sstc": 0,
+      "lat": "51.48053000",
+      "lng": "-3.18998100",
+      "distance_to": "0.52",
+      "url": "https://propertydata.co.uk/outbound/rightmove/159695216"
     }
   ]
 }
