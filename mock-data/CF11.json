@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "list": {
+    "id": "unmodernised-properties",
+    "name": "Unmodernised properties"
+  },
+  "postcode": "CF11 6RS",
+  "radius": 1,
+  "result_count": 2,
+  "api_calls_cost": 2,
+  "properties": [
+    {
+      "id": "R160111111",
+      "address": "Penarth Road, Cardiff",
+      "postcode": "CF11 6NQ",
+      "type": "Semi-detached house",
+      "bedrooms": 3,
+      "price": 270000,
+      "sqf": 950,
+      "days_on_market": 14,
+      "sstc": 0,
+      "lat": "51.47100000",
+      "lng": "-3.19200000",
+      "distance_to": "0.40",
+      "url": "https://propertydata.co.uk/outbound/rightmove/160111111"
+    },
+    {
+      "id": "R160222222",
+      "address": "Clare Road, Cardiff",
+      "postcode": "CF11 6QP",
+      "type": "Terraced house",
+      "bedrooms": 2,
+      "price": 210000,
+      "sqf": 800,
+      "days_on_market": 30,
+      "sstc": 1,
+      "lat": "51.47300000",
+      "lng": "-3.19000000",
+      "distance_to": "0.35",
+      "url": "https://propertydata.co.uk/outbound/rightmove/160222222"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "success",
+  "list": {
+    "id": "unmodernised-properties",
+    "name": "Unmodernised properties"
+  },
+  "postcode": "CF24 3UX",
+  "radius": 3,
+  "result_count": 3,
+  "api_calls_cost": 4,
+  "properties": [
+    {
+      "id": "R160999999",
+      "address": "Newport Road, Cardiff",
+      "postcode": "CF24 1RQ",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 180000,
+      "sqf": 700,
+      "days_on_market": 10,
+      "sstc": 0,
+      "lat": "51.48890000",
+      "lng": "-3.16200000",
+      "distance_to": "0.50",
+      "url": "https://propertydata.co.uk/outbound/rightmove/160999999"
+    },
+    {
+      "id": "R160888888",
+      "address": "Albany Road, Cardiff",
+      "postcode": "CF24 3RH",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 125000,
+      "sqf": 500,
+      "days_on_market": 25,
+      "sstc": 0,
+      "lat": "51.49350000",
+      "lng": "-3.16700000",
+      "distance_to": "0.30",
+      "url": "https://propertydata.co.uk/outbound/rightmove/160888888"
+    },
+    {
+      "id": "R160777777",
+      "address": "City Road, Cardiff",
+      "postcode": "CF24 3BN",
+      "type": "Terraced house",
+      "bedrooms": 4,
+      "price": 320000,
+      "sqf": 1200,
+      "days_on_market": 5,
+      "sstc": 0,
+      "lat": "51.48900000",
+      "lng": "-3.16900000",
+      "distance_to": "0.45",
+      "url": "https://propertydata.co.uk/outbound/rightmove/160777777"
+    }
+  ]
+}
