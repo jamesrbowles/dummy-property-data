@@ -10,21 +10,6 @@
   "api_calls_cost": 5,
   "properties": [
     {
-      "id": "R155036513",
-      "address": "Clare Road, Cardiff",
-      "postcode": "CF11 6RS",
-      "type": "Terraced house",
-      "bedrooms": 8,
-      "price": 220000,
-      "sqf": 1087,
-      "days_on_market": 152,
-      "sstc": 0,
-      "lat": "51.47514400",
-      "lng": "-3.18728100",
-      "distance_to": "0.48",
-      "url": "https://propertydata.co.uk/outbound/rightmove/155036513"
-    },
-    {
       "id": "R159695216",
       "address": "Rawden Place, Cardiff",
       "postcode": "CF11 6LF",
