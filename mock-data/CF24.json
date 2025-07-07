@@ -26,21 +26,6 @@
     },
 
     {
-      "id": "R160777777",
-      "address": "City Road, Cardiff",
-      "postcode": "CF24 3BN",
-      "type": "Terraced house",
-      "bedrooms": 4,
-      "price": 320000,
-      "sqf": 1200,
-      "days_on_market": 5,
-      "sstc": 0,
-      "lat": "51.48900000",
-      "lng": "-3.16900000",
-      "distance_to": "0.45",
-      "url": "https://propertydata.co.uk/outbound/rightmove/160777777"
-    },
-    {
       "id": "R159695216",
       "address": "Rawden Place, Cardiff",
       "postcode": "CF11 6LF",
