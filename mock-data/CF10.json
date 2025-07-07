@@ -23,21 +23,6 @@
       "lng": "-3.18998100",
       "distance_to": "0.52",
       "url": "https://propertydata.co.uk/outbound/rightmove/159695216"
-    },
-    {
-      "id": "R158851775",
-      "address": "Ferndale Street, Cardiff",
-      "postcode": "CF11 7AZ",
-      "type": "Terraced house",
-      "bedrooms": 3,
-      "price": 275000,
-      "sqf": null,
-      "days_on_market": 47,
-      "sstc": 1,
-      "lat": "51.47059200",
-      "lng": "-3.18418700",
-      "distance_to": "0.64",
-      "url": "https://propertydata.co.uk/outbound/rightmove/158851775"
     }
   ]
 }
