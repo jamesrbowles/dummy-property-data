@@ -24,21 +24,7 @@
       "distance_to": "0.50",
       "url": "https://propertydata.co.uk/outbound/rightmove/160999999"
     },
-    {
-      "id": "R160888888",
-      "address": "Albany Road, Cardiff",
-      "postcode": "CF24 3RH",
-      "type": "Flat",
-      "bedrooms": 1,
-      "price": 125000,
-      "sqf": 500,
-      "days_on_market": 25,
-      "sstc": 0,
-      "lat": "51.49350000",
-      "lng": "-3.16700000",
-      "distance_to": "0.30",
-      "url": "https://propertydata.co.uk/outbound/rightmove/160888888"
-    },
+
     {
       "id": "R160777777",
       "address": "City Road, Cardiff",
